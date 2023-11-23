@@ -1,4 +1,4 @@
-module gihub.com/mniak/errors
+module github.com/mniak/errors
 
 go 1.21.3
 
